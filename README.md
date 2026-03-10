@@ -7,6 +7,7 @@ Requires Node >=24.13.0.
 ## Scripts
 
 ```bash
+pnpm install   # install dependencies
 pnpm dev       # start dev server
 pnpm build     # production build
 pnpm test      # run tests
